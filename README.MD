@@ -28,3 +28,9 @@ Debian Website[1]
 [1]:https://debian.com "Download Debian"  
 
 
+A picture of a cute cat :D
+![Pic](https://pic1.zhimg.com/v2-259a14f40ff802bef77221908793aec5_r.jpg "Isn't this little guy cute?")
+
+\**This sentence will be bold without \ **  
+&copy;
+__AT&T 2019-2023,All rights reserved__  
