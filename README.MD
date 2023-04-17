@@ -34,3 +34,10 @@ A picture of a cute cat :D
 \**This sentence will be bold without \ **  
 &copy;
 __AT&T 2019-2023,All rights reserved__  
+
+
+```python
+import random
+for i in range(162):
+    print(i)
+```
