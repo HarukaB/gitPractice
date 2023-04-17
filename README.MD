@@ -22,9 +22,9 @@ This is another paragraph.
 "mcversion":"1.19.3"
 "javaver":"17.3.2"
 ```  
-[Ubuntu Website](ubuntu.com "Download Ubuntu")  
+[Ubuntu Website](https://ubuntu.com "Download Ubuntu")  
 Debian Website[1]  
 
-[1]:debian.com "Download Debian"  
+[1]:https://debian.com "Download Debian"  
 
 
