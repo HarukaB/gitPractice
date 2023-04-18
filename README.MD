@@ -42,3 +42,5 @@ for i in range(162):
     print(i)
 ```
 ![Pic](https://th.bing.com/th/id/R.6a3b3df49322674d728b5795dd70b688?rik=al%2fhJHxaw0CAIQ&pid=ImgRaw&r=0)
+
+__Use ssh to commit changes,not https__
