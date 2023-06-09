@@ -29,18 +29,12 @@ Debian Website[1]
 
 
 A picture of a cute cat :D
-![Pic](https://pic1.zhimg.com/v2-259a14f40ff802bef77221908793aec5_r.jpg "Isn't this little guy cute?")
+![Pic](https://pic1.zhimg.com/v2-259a14f40ff802bef77221908793aec5_r.jpg)
 
 \**This sentence will be bold without \ **  
 &copy;
-__AT&T 2019-2023,All rights reserved__  
 
 
-```python
-import random
-for i in range(162):
-    print(i)
-```
 ![Pic](https://th.bing.com/th/id/R.6a3b3df49322674d728b5795dd70b688?rik=al%2fhJHxaw0CAIQ&pid=ImgRaw&r=0)
 
 1
